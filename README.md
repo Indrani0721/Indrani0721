@@ -62,10 +62,10 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 ZeroToCodeHero — AI Coding Curriculum Platform
+### 🤖 Confused-to-coding-learning — AI Coding Curriculum Platform
 LLM-powered platform generating adaptive, personalized coding curricula via agentic task sequencing and prompt engineering with human-in-the-loop feedback.
 `Python` `Streamlit` `Flutter` `LLM Integration`
-[GitHub Repo](#)
+[[GitHub Repo](#)](https://github.com/Indrani0721/Confused-to-coding-learning.git)
 
 ### 🔍 DOI Verifier — AI Hallucination Detection
 Detects hallucinated AI citations by cross-referencing LLM outputs against live scholarly databases in real time. Core RAG & entity resolution concepts applied.
