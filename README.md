@@ -9,16 +9,16 @@
 ---
 
 ## About Me
-- 🚀 Recently shipped: **RideCommute** — live on the Apple App Store! & **ZeroToCodeHero** — AI-powered coding curriculum platform
-- 🌱 Currently exploring: agentic workflows, LLM-driven data pipelines & distributed systems at scale
-- 💬 Ask me about: Python, full-stack AI apps, prompt engineering, RAG, or getting an app to production
-- 📫 Reach me: Indraniadivi22@gmail.com · [LinkedIn](#)
-- ⚡ Fun fact: I built a tool that catches AI hallucinations by cross-referencing real scholarly databases in real time!
-- 🎯 Open to: Full-time Software Engineering & AI Engineer roles from May 2026
+- Recently shipped: **RideCommute** — live on the Apple App Store! & **ZeroToCodeHero** — AI-powered coding curriculum platform
+- Currently exploring: agentic workflows, LLM-driven data pipelines & distributed systems at scale
+- Ask me about: Python, full-stack AI apps, prompt engineering, RAG, or getting an app to production
+- Reach me: Indraniadivi22@gmail.com · [LinkedIn](#)
+- Fun fact: I built a tool that catches AI hallucinations by cross-referencing real scholarly databases in real time!
+- Open to: Full-time Software Engineering & AI Engineer roles from May 2026
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
@@ -56,9 +56,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📱 RideCommute — Live on the Apple App Store
+### RideCommute — Live on the Apple App Store
 Real-time ride-sharing mobile app built for 500+ concurrent users. Firebase Realtime DB streaming, C++ backend, and full CI/CD pipeline via GitHub Actions.
 `Flutter` `Dart` `Firebase` `C++` `GitHub Actions`
 [View on App Store](#) · [GitHub Repo](#)
@@ -80,10 +80,10 @@ End-to-end SQL data pipeline transforming raw datasets into interactive Power BI
 
 ---
 
-## 📜 Certifications
-- ☁️ AWS Certified Solutions Architect – Associate
-- ⚡ Scrum for Developers (Certified)
-- 📋 JIRA-Driven Agile Development
+## Certifications
+- AWS Certified Solutions Architect – Associate
+- Scrum for Developers (Certified)
+- JIRA-Driven Agile Development
 
 ---
 
