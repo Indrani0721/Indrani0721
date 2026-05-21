@@ -74,7 +74,7 @@ Detects hallucinated AI citations by cross-referencing LLM outputs against live 
 ### 📱 UNH RideShare — Real-Time Ride-Sharing App
 Production-grade mobile app built for 500+ concurrent users with Firebase Realtime DB streaming, C++ backend, and full CI/CD pipeline via GitHub Actions.
 `Flutter` `Dart` `Firebase` `C++` `GitHub Actions`
-[GitHub Repo](#)
+[[GitHub Repo](#)](https://github.com/Indrani0721/unh-rideshare-app.git)
 
 ### 📊 Academic Analytics Dashboard
 End-to-end SQL data pipeline transforming raw datasets into interactive Power BI & Tableau dashboards with advanced query optimization for large-scale data.
