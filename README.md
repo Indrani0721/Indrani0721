@@ -2,7 +2,7 @@
 
 M.S. Information Technology, UNH Manchester · AWS Certified Solutions Architect · IT Engineer, UNH Library
 
-[LinkedIn](https://www.linkedin.com/in/indrani-adivi-7bb55b224) · indraniadivi22@gmail.com · Manchester, NH
+[LinkedIn](https://www.linkedin.com/in/indrani-adivi-7bb55b224) · indraniadivi22@gmail.com · Boston, NH
 
 ---
 
