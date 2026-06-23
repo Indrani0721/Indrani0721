@@ -36,9 +36,9 @@ End-to-end SQL pipeline transforming raw datasets into Power BI and Tableau dash
 
 **Web & Mobile:** React, Node.js, Flutter, Streamlit, FastAPI, Flask
 
-**Cloud & DevOps:** AWS (Certified), GCP, Azure, Docker, Kubernetes, GitHub Actions, Firebase
+**Cloud & DevOps:** AWS (Certified), GCP, Docker, GitHub Actions, Firebase
 
-**Data:** PostgreSQL, SQLite, ChromaDB, Redis, Power BI, Tableau
+**Data:** PostgreSQL, SQLite, ChromaDB, Power BI, Tableau
 
 ---
 
@@ -49,4 +49,4 @@ End-to-end SQL pipeline transforming raw datasets into Power BI and Tableau dash
 
 ---
 
-*Open to Software Engineer, AI/ML, and AI Systems Developer roles.*
+*Open to Software Engineer, AI/ML, Forward Deployed engineer*
