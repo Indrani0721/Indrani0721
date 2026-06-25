@@ -1,52 +1,47 @@
-# Indrani Adivi
+Hi, I'm Indrani 👋
 
-M.S. Information Technology, UNH Manchester · AWS Certified Solutions Architect · IT Engineer, UNH Library
+AI/ML Engineer · LLM Fine-Tuning · RAG Pipelines · Model Evaluation · AWS Certified
 
-[LinkedIn](https://www.linkedin.com/in/indrani-adivi-7bb55b224) · indraniadivi22@gmail.com · Boston, NH
+I build language model systems and test whether they actually work.
 
----
+What I'm Building
 
-## About
+Clinical Note Intelligence System (in progress)
 
-I build AI-powered applications and data systems, with a focus on RAG architectures, LLM integration, and production-quality backend engineering. Currently seeking Software Engineer and AI/ML Developer roles.
+A dual-LLM pipeline that extracts structured clinical data — diagnoses, medications, dosages, follow-up actions — from unstructured physician notes. FastAPI + Groq (Llama 3.1) + Pydantic. Returns null for missing fields rather than hallucinating values.
 
----
+Featured Projects
 
-## Featured Projects
+1. LLM Fine-Tuning — QA over Custom Data
+Fine-tuned Llama 3.2 3B with QLoRA; validated generalization on held-out questions
+Python · Hugging Face · QLoRA · Colab
 
-**[UNH AI Knowledge Assistant](https://github.com/Indrani0721/unh-ai-knowledge-assistant)**
-RAG-based question-answering system over UNH web content. Built with LangChain, FastAPI, ChromaDB, Streamlit, and Groq (LLaMA 3). Sub-400ms response time, CI/CD via GitHub Actions, full test coverage.
+2. DOI Verifier — Citation Grounding
+Validates bibliographic references against live registries; deterministic pass/fail per entry
+Python · Pattern Matching · doi.org API
 
-**DOI Verifier — AI Hallucination Detection**
-Detects hallucinated citations in LLM outputs by cross-referencing against live scholarly databases in real time. Python, Flask, REST APIs, GCP.
+3. ZeroToCodeHero
+Gamified Streamlit platform taking non-coders from zero to a working Flutter app in 10 missions
+Python · Streamlit · Flutter · Spoonacular API
 
-**UNH RideShare — Real-Time Mobile App**
-Production-grade ride-sharing app built for 500+ concurrent users. Flutter/Dart frontend, Firebase Realtime DB, C++ backend, GitHub Actions CI/CD.
+4. RideCommute
+Real-time ride-sharing app — shipped to the App Store
+Flutter · Dart · Firebase · C++ · GitHub Actions
 
-**Academic Analytics Dashboard**
-End-to-end SQL pipeline transforming raw datasets into Power BI and Tableau dashboards with query optimization for large-scale data.
+Tech Stack
+ML & LLMs: Python, PyTorch, Hugging Face, LangChain
+Cloud & Tools: AWS, FastAPI, Docker, Github Actions
+AI Applications
+RAG · Vector Retrieval (FAISS / Pinecone) · Prompt Engineering · Generalization Testing · Grounding Validation
 
----
+Background
+M.S. Information Technology — UNH Manchester (2026, GPA 3.64)
+☁️ AWS Certified Solutions Architect – Associate
+📐 B.S. Mathematics, Statistics & Computer Science
+💼 Previously: Amazon · Capgemini
+📍 Boston, MA · Open to full-time AI/ML roles anywhere in the US + remote
 
-## Skills
+Let's connect
+https://www.linkedin.com/in/indrani-adivi-7bb55b224/
 
-**Languages:** Python, JavaScript, TypeScript, SQL, Dart, Java, C++
-
-**AI / ML:** LangChain, LlamaIndex, RAG, OpenAI API, Groq, HuggingFace, prompt engineering
-
-**Web & Mobile:** React, Node.js, Flutter, Streamlit, FastAPI, Flask
-
-**Cloud & DevOps:** AWS (Certified), GCP, Docker, GitHub Actions, Firebase
-
-**Data:** PostgreSQL, SQLite, ChromaDB, Power BI, Tableau
-
----
-
-## Certifications
-
-- AWS Certified Solutions Architect – Associate
-- Scrum for Developers (Certified)
-
----
-
-*Open to Software Engineer, AI/ML, Forward Deployed engineer*
+mail to:indraniadivi22@gmail.com
