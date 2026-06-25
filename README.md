@@ -41,7 +41,6 @@ M.S. Information Technology — UNH Manchester (2026, GPA 3.64)
 💼 Previously: Amazon · Capgemini
 📍 Boston, MA · Open to full-time AI/ML roles anywhere in the US + remote
 
-Let's connect
-https://www.linkedin.com/in/indrani-adivi-7bb55b224/
-
-mail to:indraniadivi22@gmail.com
+Let's connect:
+LinkedIn: https://www.linkedin.com/in/indrani-adivi-7bb55b224/
+Mail:indraniadivi22@gmail.com
