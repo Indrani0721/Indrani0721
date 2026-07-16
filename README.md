@@ -6,7 +6,7 @@ I build language model systems and test whether they actually work.
 
 What I'm Building
 
-Clinical Note Intelligence System (in progress)
+Clinical Note Intelligence System
 
 A dual-LLM pipeline that extracts structured clinical data — diagnoses, medications, dosages, follow-up actions — from unstructured physician notes. FastAPI + Groq (Llama 3.1) + Pydantic. Returns null for missing fields rather than hallucinating values.
 
