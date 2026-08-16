@@ -5,9 +5,10 @@ M.S. Information Technology @ UNH Manchester · GPA 3.61
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrani-adivi/)
-[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=flat&logo=amazonaws&logoColor=1a1a1a)](https://www.linkedin.com/in/indrani-adivi/)
-![App Store Shipped](https://img.shields.io/badge/App_Store_Shipped-34c759?style=flat&logo=apple&logoColor=white)
-![Scrum Certified](https://img.shields.io/badge/Scrum_Certified-6366f1?style=flat&logoColor=white)
+[![AWS Certified]([https://img.shields.io/badge/AWS_Certified-FF9900?style=flat&logo=amazonaws&logoColor=1a1a1a)](https://www.linkedin.com/in/indrani-adivi/](https://drive.google.com/file/d/1BL5g-aYn_MlRWIGcKQ2Sj4mIU5PG-W-z/view?usp=sharing))
+![App Store Shipped](https://apps.apple.com/us/app/unh-rideshare/id6761516279
+UNH RideShare)
+![Scrum Certified](https://www.linkedin.com/learning/certificates/6743eb0ae6c9581e362352a475f48c1137a1262a514cf66ef05d1f9833f63bd9?accountId=127479866&u=127479866&success=true&authUUID=aN8E9g2kQ%2BeLHI1YBZhmpA%3D%3D)
 
 ---
 
