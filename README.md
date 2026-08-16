@@ -4,10 +4,6 @@ M.S. Information Technology @ UNH Manchester · GPA 3.61
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrani-adivi/)
-[![AWS Certified](https://drive.google.com/file/d/1BL5g-aYn_MlRWIGcKQ2Sj4mIU5PG-W-z/view?usp=sharing)
-![App Store Shipped](https://apps.apple.com/us/app/unh-rideshare/id6761516279
-UNH RideShare)
-![Scrum Certified](https://www.linkedin.com/learning/certificates/6743eb0ae6c9581e362352a475f48c1137a1262a514cf66ef05d1f9833f63bd9?accountId=127479866&u=127479866&success=true&authUUID=aN8E9g2kQ%2BeLHI1YBZhmpA%3D%3D)
 
 ---
 
@@ -55,24 +51,24 @@ UNH RideShare)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📱 UNH Rideshare — Live on the Apple App Store
+### UNH Rideshare — Live on the Apple App Store
 Real-time ride-sharing app connecting UNH students across the Manchester–Durham commute. I built the backend and managed the full App Store deployment end-to-end as Scrum Master.
 `Flutter` `Firebase` `C++` `GitHub Actions CI/CD`
 [GitHub Repo](#)
 
-### 📊 SkillScope — Job Market Skill Analyzer
+### SkillScope — Job Market Skill Analyzer
 Full-stack app that pulls live job postings via Adzuna API and analyzes which skills are actually in demand. Pure keyword logic — no LLM, every result is explainable and deterministic.
 `FastAPI` `React` `SQLite` `pytest` `Render` `Vercel`
 [GitHub Repo](#)
 
-### 🏥 Clinical Note Intelligence
+### Clinical Note Intelligence
 Dual-LLM pipeline that extracts diagnoses, medications, and dosages from unstructured physician notes via FastAPI endpoints. Returns null for missing fields — no hallucinations.
 `FastAPI` `Groq (Llama 3.1)` `Pydantic` `Python`
 [GitHub Repo](#)
 
-### 🔍 DOI Verifier — Citation Validator
+### DOI Verifier — Citation Validator
 Validates bibliographic references against live registries in real time. Deterministic pass/fail per entry — deployed on GCP with role-based access control.
 `Python` `Flask` `REST APIs` `GCP`
 [GitHub Repo](#)
@@ -85,12 +81,12 @@ Validates bibliographic references against live registries in real time. Determi
 
 ---
 
-## 📜 Certifications
-- ☁️ [AWS Certified Solutions Architect – Associate](https://www.linkedin.com/in/indrani-adivi/)
-- ⚡ Scrum for Developers (Certified)
+## Certifications
+- [AWS Certified Solutions Architect – Associate](https://www.linkedin.com/in/indrani-adivi/)
+- Scrum for Developers (Certified)
 
 ---
 
-*Software Engineer · Open to full-time roles across the US · Relocating to Dallas, TX*
+*Software Engineer · Open to full-time roles across the US*
 ](https://apps.apple.com/us/app/unh-rideshare/id6761516279
 UNH RideShare)
