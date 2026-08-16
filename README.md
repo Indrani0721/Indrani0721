@@ -1,46 +1,94 @@
-Hi, I'm Indrani 👋
 
-AI/ML Engineer · LLM Fine-Tuning · RAG Pipelines · Model Evaluation · AWS Certified
+Hi, I'm Indrani!
 
-I build language model systems and test whether they actually work.
+M.S. Information Technology @ UNH Manchester · GPA 3.61
 
-## What I'm Building
 
-**Clinical Note Intelligence System**
-A dual-LLM pipeline that extracts structured clinical data — diagnoses, medications, dosages, follow-up actions — from unstructured physician notes. FastAPI + Groq (Llama 3.1) + Pydantic. Returns null for missing fields rather than hallucinating values.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrani-adivi/)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=flat&logo=amazonaws&logoColor=1a1a1a)](https://www.linkedin.com/in/indrani-adivi/)
+![App Store Shipped](https://img.shields.io/badge/App_Store_Shipped-34c759?style=flat&logo=apple&logoColor=white)
+![Scrum Certified](https://img.shields.io/badge/Scrum_Certified-6366f1?style=flat&logoColor=white)
 
-## Featured Projects
+---
 
-1.**UNH RideShare**
-A real-time ride-sharing app connecting UNH students across the Manchester–Durham commute. Shipped live on the iOS App Store (5.0★). Built phone-auth (Firebase OTP), Firestore schema, and the team's CI/CD pipeline as Scrum Master + backend dev.
-Flutter · Dart · Firebase · GitHub Actions
+## About Me
 
-2.  **LLM Fine-Tuning — QA over Custom Data**
-Fine-tuned Llama 3.2 3B with QLoRA; validated generalization on held-out questions
-Python · Hugging Face · QLoRA · Colab
+- Software Engineer who builds and ships real applications — not just demos
+- Shipped UNH Rideshare to the Apple App Store as backend developer and Scrum Master
+- Comfortable across the full stack — backend APIs, frontend interfaces, databases, CI/CD
+- I use AI as a tool to build smarter software — LLMs integrated into real production apps
+- Industry experience at Amazon and Capgemini · SWE internship at Finverge Technologies
+- Open to Software Engineer roles across the US
+- 📫 indraniadivi22@gmail.com · [LinkedIn](https://www.linkedin.com/in/indrani-adivi/)
 
-3. **DOI Verifier — Citation Grounding**
-Validates bibliographic references against live registries; deterministic pass/fail per entry
-Python · Pattern Matching · doi.org API
+---
 
-4. **ZeroToCodeHero**
-Gamified Streamlit platform taking non-coders from zero to a working Flutter app in 10 missions
-Python · Streamlit · Flutter · Spoonacular API
+## 🛠️ Tech Stack
 
-## Tech Stack
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b07219?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**ML & LLMs:** Python, PyTorch, Hugging Face, LangChain
-**Cloud & Tools:** AWS, FastAPI, Docker, GitHub Actions
-**AI Applications:** RAG · Vector Retrieval (FAISS / Pinecone) · Prompt Engineering · Generalization Testing · Grounding Validation
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-336791?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=1a1a1a)
 
-## Background
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=20232a)
+![Flutter](https://img.shields.io/badge/Flutter-0175C2?style=flat&logo=flutter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-ff6b6b?style=flat&logo=streamlit&logoColor=white)
 
-M.S. Information Technology — UNH Manchester (2026, GPA 3.64)
-☁️ AWS Certified Solutions Architect – Associate
-📐 B.S. Mathematics, Statistics & Computer Science
-💼 Previously: Amazon · Capgemini
-📍 Boston, MA · Open to full-time AI/ML roles anywhere in the US + remote
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=1a1a1a)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F05032?style=flat&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-Let's connect:
-LinkedIn: https://www.linkedin.com/in/indrani-adivi-7bb55b224/
-Mail: indraniadivi22@gmail.com
+---
+
+## 🚀 Featured Projects
+
+### 📱 UNH Rideshare — Live on the Apple App Store
+Real-time ride-sharing app connecting UNH students across the Manchester–Durham commute. I built the backend and managed the full App Store deployment end-to-end as Scrum Master.
+`Flutter` `Firebase` `C++` `GitHub Actions CI/CD`
+[GitHub Repo](#)
+
+### 📊 SkillScope — Job Market Skill Analyzer
+Full-stack app that pulls live job postings via Adzuna API and analyzes which skills are actually in demand. Pure keyword logic — no LLM, every result is explainable and deterministic.
+`FastAPI` `React` `SQLite` `pytest` `Render` `Vercel`
+[GitHub Repo](#)
+
+### 🏥 Clinical Note Intelligence
+Dual-LLM pipeline that extracts diagnoses, medications, and dosages from unstructured physician notes via FastAPI endpoints. Returns null for missing fields — no hallucinations.
+`FastAPI` `Groq (Llama 3.1)` `Pydantic` `Python`
+[GitHub Repo](#)
+
+### 🔍 DOI Verifier — Citation Validator
+Validates bibliographic references against live registries in real time. Deterministic pass/fail per entry — deployed on GCP with role-based access control.
+`Python` `Flask` `REST APIs` `GCP`
+[GitHub Repo](#)
+
+---
+
+## 📈 GitHub Stats
+
+![Indrani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indrani0721&show_icons=true&theme=default&hide_border=true)
+
+---
+
+## 📜 Certifications
+- ☁️ [AWS Certified Solutions Architect – Associate](https://www.linkedin.com/in/indrani-adivi/)
+- ⚡ Scrum for Developers (Certified)
+
+---
+
+*Software Engineer · Open to full-time roles across the US · Relocating to Dallas, TX*
